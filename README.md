@@ -75,5 +75,8 @@ Embora existam padrões e propriedades que descrevem como os números primos se 
 - Teste de Lucas-Lehmer
 
 ### 💰 Hipótese de Riemann - Em breve
+Recomendo texto A hipótese de Riemann - 150 anos de José Carlos Santos, publicado na [`Gazeta de Matemática`](http://gazeta.spm.pt/) (nº158, 01/09/2009, pág. 8-14).
+[`Link 1`](http://gazeta.spm.pt/getArtigo?gid=243) - [`Link 2`](https://www.fc.up.pt/mp/jcsantos/PDF/artigos/Riemann_150.pdf) - [`Link 3`](teste)
+
 
 <!--### 📟 -->
